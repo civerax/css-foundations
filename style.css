@@ -1,10 +1,31 @@
-div {
-    background-color: red;
-    color: white;
-    text-align:center;
-    font-size: 32px;
-    font-weight: 700; 
-    
-    
+.num1{
+background-color: lightpink;
+font-family:"Dejavu Sans";
 }
-/* 01-css-methods */
+.coleer3{
+    background-color: lightpink;
+    font-family:verdana ; 
+    font-size: 24px; 
+}
+.num5{
+    background-color: lightpink;
+font-family: sans-serif;
+}
+
+#num2{
+    color: blue;
+    font-size: 36px;
+}
+
+#num4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+
+
+
+
+/* 02-css-methods */
