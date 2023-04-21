@@ -1,24 +1,17 @@
+.num1,
+.num2{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
 .num1{
-   background-color: lightpink;
-   font-family: verdana, "dejavu sans", sans-serif; 
+    background-color: black;
+    color: white;
 }
-.adjust-font-size{
-    font-size: 24px;
-}
-
-#num2{
-    color: blue;
-    font-size: 36px;
-}
-
-#num4{
-    background-color: lightgreen;
-    font-weight: bold;
+.num2{
+    background-color: yellow;
 }
 
 
 
-
-
-
-/* 02-css-methods "correct form"*/
+/* 03-css-methods */
