@@ -1,15 +1,9 @@
 .num1{
-background-color: lightpink;
-font-family:"Dejavu Sans";
+   background-color: lightpink;
+   font-family: verdana, "dejavu sans", sans-serif; 
 }
-.coleer3{
-    background-color: lightpink;
-    font-family:verdana ; 
-    font-size: 24px; 
-}
-.num5{
-    background-color: lightpink;
-font-family: sans-serif;
+.adjust-font-size{
+    font-size: 24px;
 }
 
 #num2{
@@ -19,7 +13,6 @@ font-family: sans-serif;
 
 #num4{
     background-color: lightgreen;
-    font-size: 24px;
     font-weight: bold;
 }
 
@@ -28,4 +21,4 @@ font-family: sans-serif;
 
 
 
-/* 02-css-methods */
+/* 02-css-methods "correct form"*/
